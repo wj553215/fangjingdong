@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "HTML-xuexi",
+			"path": "../../HTML-xuexi"
+		},
+		{
+			"name": "Babel",
+			"path": "../../Babel"
+		},
+		{
+			"name": "Webpack",
+			"path": "../../Webpack"
+		},
+		{
+			"path": "../../Sass"
+		},
+		{
+			"path": "../../http协议储存Ajax"
+		},
+		{
+			"path": "../../Vue"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vue"
+	}
+}

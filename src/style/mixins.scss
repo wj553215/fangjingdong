@@ -1,0 +1,6 @@
+// 将文字省略
+@mixin ellipsis {
+    white-space: nowrap; //不允许换行
+    overflow: hidden; //省略超出内容
+    text-overflow: ellipsis;
+}
